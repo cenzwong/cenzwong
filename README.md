@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-https://img.shields.io/github/followers/cenzwong?style=social
-
 [![GitHub](https://img.shields.io/github/followers/cenzwong?style=social)](https://github.com/cenzwong/)
 
 
