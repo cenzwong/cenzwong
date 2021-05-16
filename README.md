@@ -2,7 +2,7 @@
 
 https://img.shields.io/github/followers/cenzwong?style=social
 
-[![GitHub](https://img.shields.io/badge/cenzwong?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/cenzwong/)
+[![GitHub](https://img.shields.io/badge/cenzwong?style=social&logo=github&logoColor=white)](https://github.com/cenzwong/)
 
 
 <!--
